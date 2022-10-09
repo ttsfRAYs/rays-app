@@ -1,0 +1,89 @@
+{
+  "colors": {
+    "red": {
+      "Earthquakes": "Practice DROP, COVER and HOLD ON with everyone in your household.",
+      "Wildfires": "Sign up for the emergency notification systems that your community uses. Be prepared to evacuate at a moment's notice, and keep an emergency kit in your car. Listen to local radio and television for the latest on safe evacuation routes.",
+      "Hurricanes": "In Hawaii - Keep an emergency kit on hand, and create an evacuation plan for your household, including pets.",
+      "Volcanoes": "Keep a dust mask and goggles on hand for every member of your family, and talk about your plan so everyone knows what to do in case of eruption.",
+      "Tsunami": "Plan evacuation routes from home, work, school and other places you frequently go. Try to pick safe places 2 miles inland or 100 feet above sea level.",
+      "Landslides": "Learn about local evacuation plans. Talk to everyone in your household about what you'll do if a landslide happens."
+    },
+    "yellow": {
+      "Earthquakes": "Practice DROP, COVER and HOLD ON with everyone in your household.",
+      "Wildfires": "Sign up for the emergency notification systems that your community uses. Be prepared to evacuate at a moment's notice, and keep an emergency kit in your car. Listen to local radio and television for the latest on safe evacuation routes.",
+      "Winter Storms": "Keep an emergency kit in your vehicle in case you get caught in a storm while on the road. Avoid driving, stay indoors and dress in layers of lightweight, loose-fitting clothing to stay warm."
+
+    },
+    "green": {
+      "Tornadoes": "Know where the safest place is in your home to gather, preferably a windowless interior space on the lowest floor.",
+      "Earthquakes": "In Illinois, Missouri - Practice DROP, COVER and HOLD ON with everyone in your household.",
+      "Wildfires": "In North Dakota and South Dakota - Sign up for the emergency notification systems that your community uses. Be prepared to evacuate at a moment's notice, and keep an emergency kit in your car. Listen to local radio and television for the latest on safe evacuation routes."
+    },
+    "blue": {
+      "Tornadoes": "Know where the safest place is in your home to gather, preferably a windowless interior space on the lowest floor.",
+      "Landslides": "In Kentucky, West Virginia, Virginia - Learn about local evacuation plans. Talk to everyone in your household about what you'll do if a landslide happens.",
+      "Earthquakes": "In Oklahoma, Arkansas, Kentucky, Tennessee, South Carolina, Mississippi, Louisiana, Missouri - Practice DROP, COVER and HOLD ON with everyone in your household.",
+      "Hurricanes": "Keep an emergency kit on hand, and create an evacuation plan for your household, including pets."
+    },
+    "purple": {
+      "Winter Storms": "Keep an emergency kit in your vehicle in case you get caught in a storm while on the road. Avoid driving, stay indoors and dress in layers of lightweight, loose-fitting clothing to stay warm.",
+      "Hurricanes": "In Hawaii - Keep an emergency kit on hand, and create an evacuation plan for your household, including pets."
+    },
+    "pink": {
+      "Hurricanes": "Keep an emergency kit on hand, and create an evacuation plan for your household, including pets.",
+      "Winter Storms": "Keep an emergency kit in your vehicle in case you get caught in a storm while on the road. Avoid driving, stay indoors and dress in layers of lightweight, loose-fitting clothing to stay warm."
+    }
+  },
+  "states": {
+    "Alabama": "blue",
+    "Alaska": "red",
+    "Arizona": "yellow",
+    "Arkansas": "blue",
+    "California": "red",
+    "Colorado": "yellow",
+    "Connecticut": "pink",
+    "Delaware": "purple",
+    "Florida": "blue",
+    "Georgia": "blue",
+    "Hawaii": "red",
+    "Idaho": "yellow",
+    "Illinois": "green",
+    "Indiana": "green",
+    "Iowa": "green",
+    "Kansas": "green",
+    "Kentucky": "blue",
+    "Louisiana": "blue",
+    "Maine": "pink",
+    "Maryland": "purple",
+    "Massachusetts": "pink",
+    "Michigan": "green",
+    "Minnesota": "green",
+    "Mississippi": "blue",
+    "Missouri": "green",
+    "Montana": "yellow",
+    "Nebraska": "green",
+    "Nevada": "yellow",
+    "New Hampshire": "pink",
+    "New Jersey": "purple",
+    "New Mexico": "yellow",
+    "New York": "purple",
+    "North Carolina": "blue",
+    "North Dakota": "green",
+    "Ohio": "green",
+    "Oklahoma": "blue",
+    "Oregon": "red",
+    "Pennsylvania": "purple",
+    "Rhode Island": "pink",
+    "South Carolina": "blue",
+    "South Dakota": "green",
+    "Tennessee": "blue",
+    "Texas": "blue",
+    "Utah": "yellow",
+    "Vermont": "pink",
+    "Virginia": "blue",
+    "Washington": "red",
+    "West Virginia": "blue",
+    "Wisconsin": "green",
+    "Wyoming": "yellow"
+  }
+}
